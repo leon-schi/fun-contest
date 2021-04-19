@@ -1,0 +1,13 @@
+# Competitive Programming specific part
+/*/*/*/build/
+/*/*/notes.pdf
+/*/*/contest.pdf
+/login.toml
+/timefactor
+__pycache__/
+
+# clion specific part
+.idea/
+cmake-build-*
+CMakeLists.txt
+
