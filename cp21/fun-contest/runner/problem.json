@@ -1,0 +1,11 @@
+{
+  "based_on": {
+    "data": [
+      "TI Bonusaufgabe"
+    ],
+    "type": "other"
+  },
+  "description": "find eulerian cycle in directed, connected graph",
+  "difficulty": 3,
+  "tags": []
+}

@@ -1,0 +1,25 @@
+\input{.template/template.tex}
+
+\begin{document}
+
+\makeheader{end of contest}
+
+You are a very skilled and passionate runner who is currently planning to move to a new city. Of course, the city you will move to must be a suitable place to continue your training habits. 
+Every day in the morning, you want to go for a very long run through the whole city, i.e., your route must contain \emph{every} road in the city. Unfortunately, you are bored very easily and you will immediately quit your whole career when you run through a road 
+more than one time. During the last months you created a list of candidate cites that you might move to. You notice that each of these cities contains an extraordinary amount of one way streets. Since you are an exemplary citizen, you want to respect the direction 
+of each road during your run. In order to decide which city you should move to, you ask yourself whether there is a path (starting at any node) that traverses each road exactly once and in the end leads back to the node you started from.
+
+\paragraph*{Input} You are given a road network of a candidate city. The first line contains two integers $n$ and $m$ ($1 \le n, m \le 5\cdot10^5$) representing the number of nodes and edges of the road network, respectively.
+Each of the following $m$ lines specifies one (directed) road in the network. It contains two integers $a$ and $b$ ($1 \le a, b \le n$), representing the start and the end node of the edge, respectively. It is guaranteed that the road network is (weakly) connected.
+You have to traverse every edge exactly once, however, nodes can be visited multiple times.
+
+\paragraph*{Output}
+
+Output \texttt{IMPOSSIBLE} if there is no path that fulfills the above conditions. Otherwise, print a line containing the edges of \emph{one} path fulfilling the conditions in the order you have to traverse them. To identify edges, use their positions in the input ($1$ to $m$).
+
+\begin{samples}
+  \sample{sample1}
+  \sample{sample2}
+\end{samples}
+
+\end{document}
