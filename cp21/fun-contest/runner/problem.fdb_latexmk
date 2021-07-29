@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1625861369 "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.tex" "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.pdf" "problem" 1625861369
+["pdflatex"] 1627561969 "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.tex" "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.pdf" "problem" 1627561969
   ".template/template.tex" 1625751777 2176 547429ef2f18d90e156c2b1f09250402 ""
   "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/metainfo-include.tex" 0 -1 0 ""
-  "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.aux" 1625861369 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.tex" 1625861367 2008 ada593019dd77d5192bef5a60ab37605 ""
+  "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.aux" 1627561969 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.tex" 1627561968 2140 0265d283afe387f21a8103ca12052252 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1617738065 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1617738065 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texmf-dist/tex/latex/footmisc/footmisc.sty" 1621766596 25776 d28bd6d82f168f8cb2268584b67a2a98 ""
@@ -20,8 +20,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1617738065 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1623167180 2812681 14c44200c5b6493dc73882ecf84cf955 ""
   "metainfo-include.tex" 0 -1 0 ""
-  "problem.tex" 1625861367 2008 ada593019dd77d5192bef5a60ab37605 ""
+  "problem.tex" 1627561968 2140 0265d283afe387f21a8103ca12052252 ""
   (generated)
+  "problem.log"
   "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.pdf"
   "/home/leon/Documents/HPI/SS21/ComProg/fun-contest/cp21/fun-contest/runner/problem.log"
-  "problem.log"
